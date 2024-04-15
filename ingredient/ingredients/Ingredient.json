@@ -1,0 +1,506 @@
+[
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "양파",
+        "ID": "1",
+        "Expiration_date": "2",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "대파",
+        "ID": "2",
+        "Expiration_date": "2",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "가지",
+        "ID": "3",
+        "Expiration_date": "3",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "고구마",
+        "ID": "4",
+        "Expiration_date": "3",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "감자",
+        "ID": "5",
+        "Expiration_date": "3",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "마늘",
+        "ID": "6",
+        "Expiration_date": "3",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "애호박",
+        "ID": "7",
+        "Expiration_date": "3",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "브로콜리",
+        "ID": "8",
+        "Expiration_date": "3",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "양배추",
+        "ID": "9",
+        "Expiration_date": "3",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "당근",
+        "ID": "10",
+        "Expiration_date": "4",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "오이",
+        "ID": "11",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "버섯",
+        "ID": "12",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "시금치",
+        "ID": "13",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "고추 ",
+        "ID": "14",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "콜리플라워",
+        "ID": "15",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "토마토",
+        "ID": "16",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "콩나물",
+        "ID": "17",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "샐러리",
+        "ID": "18",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "상추",
+        "ID": "19",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "양송이버섯",
+        "ID": "20",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "파프리카",
+        "ID": "21",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "아스파라거스",
+        "ID": "22",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "미나리",
+        "ID": "23",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "호박",
+        "ID": "24",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "청경채",
+        "ID": "25",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "단호박",
+        "ID": "26",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "녹두",
+        "ID": "27",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "더덕",
+        "ID": "28",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "당근잎",
+        "ID": "29",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "부추",
+        "ID": "30",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "무",
+        "ID": "31",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "채소류 ",
+        "Scategory": "비트",
+        "ID": "32",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "사과",
+        "ID": "33",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "배",
+        "ID": "34",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "포도",
+        "ID": "35",
+        "Expiration_date": "5",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "복숭아",
+        "ID": "36",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "수박",
+        "ID": "37",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "바나나",
+        "ID": "38",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "오렌지",
+        "ID": "39",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "딸기",
+        "ID": "40",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "키위",
+        "ID": "41",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "체리",
+        "ID": "42",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "파인애플",
+        "ID": "43",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "메론",
+        "ID": "44",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "자몽",
+        "ID": "45",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "레몬",
+        "ID": "46",
+        "Expiration_date": "7",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "파파야",
+        "ID": "47",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "레드포도",
+        "ID": "48",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "블루베리",
+        "ID": "49",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "라즈베리",
+        "ID": "50",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "아보카도",
+        "ID": "51",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "자두",
+        "ID": "52",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "레드향",
+        "ID": "53",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "패션프루트",
+        "ID": "54",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "무화과",
+        "ID": "55",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "아로니아",
+        "ID": "56",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "코코넛",
+        "ID": "57",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "귤",
+        "ID": "58",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "블랙베리",
+        "ID": "59",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "살구",
+        "ID": "60",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "석류 ",
+        "ID": "61",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "곶감",
+        "ID": "62",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "아시아베리",
+        "ID": "63",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "샤인머스켓",
+        "ID": "64",
+        "Expiration_date": "10",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "흑토마토",
+        "ID": "65",
+        "Expiration_date": "12",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "과일류",
+        "Scategory": "레몬",
+        "ID": "66",
+        "Expiration_date": "14",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "고기류",
+        "Scategory": "돼지고기",
+        "ID": "67",
+        "Expiration_date": "14",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "고기류",
+        "Scategory": "닭고기",
+        "ID": "68",
+        "Expiration_date": "14",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "고기류",
+        "Scategory": "소고기",
+        "ID": "69",
+        "Expiration_date": "21",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "생선류",
+        "Scategory": "생선",
+        "ID": "70",
+        "Expiration_date": "25",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "유제품",
+        "Scategory": "고체치즈",
+        "ID": "71",
+        "Expiration_date": "25",
+        "Date_of_registration": ""
+    },
+    {
+        "Mcategory": "유제품",
+        "Scategory": "달걀",
+        "ID": "72",
+        "Expiration_date": "70",
+        "Date_of_registration": ""
+    }
+]

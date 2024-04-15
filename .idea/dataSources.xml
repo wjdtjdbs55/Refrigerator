@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+<<<<<<< HEAD
     <data-source source="LOCAL" name="db" uuid="8590a4ba-7715-426b-8b23-0c3597e35409">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
@@ -17,6 +18,9 @@
       </libraries>
     </data-source>
     <data-source source="LOCAL" name="Django default" uuid="ee3f40c7-dabb-48fa-ad1d-17bc359c9b19">
+=======
+    <data-source source="LOCAL" name="Django default" uuid="bf650c27-5d4f-41e8-8b07-02b5a4de1374">
+>>>>>>> 389b5ec (add ingredient database)
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
