@@ -17,4 +17,5 @@ ingredient_detail = IngredientView.as_view({
 urlpatterns = format_suffix_patterns([
     path('ingredient/', ingredient_list, name='ingredient_list'),
     path('ingredient/<int:pk>/', ingredient_detail, name='ingredient_detail'),
+
 ])

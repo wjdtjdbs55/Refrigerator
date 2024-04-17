@@ -1,6 +1,5 @@
 from rest_framework import serializers
-from ingredient.models import Ingredient
-from django.contrib.auth.models import User
+from .models import Ingredient
 
 
 class IngredientSerializer(serializers.ModelSerializer):

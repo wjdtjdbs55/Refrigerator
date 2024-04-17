@@ -14,7 +14,8 @@ class Ingredient(models.Model):
         null=False, default='채소'
     )  # 식품 유형
     Expiration_date = models.IntegerField(null=False)  # 평균 유통 기한
-    Date_of_registration = models.DateField(null=True, blank=True)  # 구매 날짜
 
     def __str__(self):
         return self.Scategory
+
+

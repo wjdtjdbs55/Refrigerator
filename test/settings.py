@@ -24,7 +24,7 @@ SECRET_KEY = "django-insecure-er*=uy5x5$wbj!993b9v@!nzp!946hyrebmstzy(miq(pb23pb
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     "ingredient",
     "recipe",
+    "stock",
 
 
     "rest_framework",
